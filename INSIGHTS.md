@@ -29,7 +29,7 @@ I found these with the tool's heatmaps, playback and hotspot list. I then counte
 
 **Why a level designer should care.** The storm is a map-level pacing tool. If half of the players who stay late die to it on two of the three maps, it stops being pressure and becomes a trap. That is a geometry and extraction-placement problem the level owns.
 
-*View:* `?map=Lockdown` → tick only *Storm deaths*, sort matches by *Longest*.
+*View:* [`?map=Lockdown`](https://lila-player-journeys-two.vercel.app/?map=Lockdown) → tick only *Storm deaths*, sort matches by *Longest*.
 
 ---
 
@@ -58,7 +58,7 @@ Map-wide, a human dies about once per 10–12 min of time spent. In these cells 
 
 **Why a level designer should care.** Deaths in a busy POI are the intended risk/reward. Deaths at a pass or crossing that players must go through are a layout problem, and that is the level designer's direct lever.
 
-*View:* `?map=Lockdown&heat=deaths` (untick *Bots*), then compare with `?map=Lockdown&heat=traffic`.
+*View:* [`?map=Lockdown&heat=deaths`](https://lila-player-journeys-two.vercel.app/?map=Lockdown&heat=deaths) (untick *Bots*), then compare with `?map=Lockdown&heat=traffic`.
 
 ---
 
@@ -82,4 +82,4 @@ Map-wide, a human dies about once per 10–12 min of time spent. In these cells 
 
 **Why a level designer should care.** Space that nobody uses still costs art, QA and performance budget. Concentrated loot also makes every run follow the same path. Spreading value is the cheapest way to make a large map feel bigger and less predictable.
 
-*View:* `?map=AmbroseValley&heat=loot`, then switch to *Traffic*, with *Label top 5 hotspots* on.
+*View:* [`?map=AmbroseValley&heat=loot`](https://lila-player-journeys-two.vercel.app/?map=AmbroseValley&heat=loot), then switch to *Traffic*, with *Label top 5 hotspots* on.

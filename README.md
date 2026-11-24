@@ -2,7 +2,7 @@
 
 A web tool for level designers to see how people actually play LILA BLACK maps. It shows where players walk, fight, loot and die, replays any match on the real minimap, and has heatmaps for traffic, kill zones and death zones.
 
-**Live:** _DEPLOYED_URL_
+**Live:** https://lila-player-journeys-two.vercel.app
 
 ![screenshot](docs/screenshot.jpg)
 
